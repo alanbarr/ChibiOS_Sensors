@@ -1,4 +1,5 @@
-# Define SENSORS_DIR in Makefile
+# Define SENSORS_DIR path in Makefile
+# Include this file in Makefile
 # Append *_SRC to CSRC
 # Append *_INC to INCDIR
 
